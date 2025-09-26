@@ -1,4 +1,4 @@
-* {
+ {
     font-family: arial;
     font-size: 16 ;
 
@@ -11,8 +11,27 @@ body {
 
 main {
     background-color: rgb(255, 255, 255);
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(18, 25, 33, 0.499);
+}
+
+h1 {
+    font-size: 2cm;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 1.5cm;
+    color: darkblue;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
 }
